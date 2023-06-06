@@ -1,2 +1,2 @@
-From nginx
+FROM nginx
 COPY ./build/ /usr.share/nginx
