@@ -1,4 +1,4 @@
-appName: my-app
-serviceName: jen-svc
-taskDefinition: jen-taskdef
+appName: react-img
+serviceName: svc-test
+taskDefinition: task-test
 dockerFilePath: Dockerfile
