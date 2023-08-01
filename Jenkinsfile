@@ -3,6 +3,7 @@ ReactBuildEcsDeploy([
  master: [
      containerRegistoryUrl: '919678485989.dkr.ecr.ap-south-1.amazonaws.com',
      clusterName: 'jen-cluster',
+     nodeVersion: '16.20.0',
      notification: [
       [
         type: 'email',
