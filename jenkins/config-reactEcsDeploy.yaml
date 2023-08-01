@@ -1,4 +1,4 @@
 appName: react-img
-serviceName: svcs-test
-taskDefinition: task-test
+serviceName: demo-service
+taskDefinition: demo-task
 dockerFilePath: Dockerfile
